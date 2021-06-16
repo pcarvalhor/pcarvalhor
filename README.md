@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Pedro Carvalho
+## Eu sou o Pedro Carvalho
 
  <div>
   <a href="https://github.com/pcarvalhor">
