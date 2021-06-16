@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 ## Oiii! Eu sou o Pedro Carvalho
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/pcarvalhor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pcarvalhor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcarvalhor&layout=compact&langs_count=16&theme=dracula"/>
 </div>
