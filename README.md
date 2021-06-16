@@ -14,7 +14,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg">
-  <img align="center" alt="Babel" height="30" width="40" src="https://icongr.am/simple/babel.svg?color=fbff00&colored=false">
 
 
   <i class="devicon-bootstrap-plain"></i>
